@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: intellipaatsai/sample-imagefor-argo:latest
+        image: intellipaatsai/sammple-test1:latest
         ports:
         - containerPort: 80
